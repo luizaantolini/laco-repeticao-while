@@ -7,4 +7,5 @@ if (numero > 0) {
 while (numero <= 0) {
     alert("Número inválido. Por favor, digite um número positivo.");
     numero = prompt("Por favor, digite um número positivo:");
+    alert("Muito bem! Seu número é válido.");
 }
